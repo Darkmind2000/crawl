@@ -1,4 +1,4 @@
-database 60% git complete
-front 70% complete
-speed 50% better
+database git 2014 complete
+front home,report,search=>complete
+speed 50% better(with multi proccessing)
 flask learning 
